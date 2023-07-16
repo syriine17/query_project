@@ -7,7 +7,7 @@ This is a sample project that demonstrates the usage of query runners for differ
 The project structure is as follows:
 
 ```shell
-test_proj/
+query_project/
 ├── query_runner.py
 ├── tests/
 │ └── test_query_runner.py
