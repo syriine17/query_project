@@ -1,0 +1,18 @@
+# .gitignore
+
+# General macOS files
+.DS_Store
+.idea/
+
+# Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# .env file
+.env
+
+# coverage
+.coverage
+
