@@ -1,4 +1,4 @@
-# MyProject
+# Query_Project
 
 This is a sample project that demonstrates the usage of query runners for different databases.
 
@@ -6,11 +6,13 @@ This is a sample project that demonstrates the usage of query runners for differ
 
 The project structure is as follows:
 
+```shell
 test_proj/
 ├── query_runner.py
 ├── tests/
 │ └── test_query_runner.py
 └── README.md
+```
 
 
 
@@ -32,7 +34,7 @@ git clone https://github.com/syriine17/query_project.git
 2. Navigate to the project directory:
 
 ```shell
-cd test_proj
+cd query_project
 ```
 
 
