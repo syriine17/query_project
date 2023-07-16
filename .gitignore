@@ -12,6 +12,7 @@ __pycache__/
 
 # .env file
 .env
+venv/
 
 # coverage
 .coverage
